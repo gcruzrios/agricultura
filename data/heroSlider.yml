@@ -1,0 +1,45 @@
+enable : true
+sliderItem:
+  - subHeading : Agricultura de 
+    heading : Precisión
+    description : La agricultura de precisión con drones plantea desde <br>  hace años el uso de datos y tecnología para cambiar <br>los métodos de trabajo y manejo de cultivos en <br>todo el mundo.
+    bgImage : images/banner/banner-1.jpg
+    dataIcon : ti-announcement
+    dataText : Servicios
+    btn : 
+      enable : true
+      btnText: Más detalles
+      btnURL : '#'
+      
+  - subHeading : Mapeo de cultivos con
+    heading : Drones
+    description : La agricultura de precisión con drones plantea desde <br>  hace años el uso de datos  y tecnología para cambiar <br>los métodos de trabajo y manejo de cultivos en <br>todo el mundo.
+    bgImage : images/banner/banner-2.jpg
+    dataIcon : ti-map-alt
+    dataText : Mapeo
+    btn : 
+      enable : true
+      btnText: Más detalles
+      btnURL : '#'
+      
+  - subHeading : Ofrecemos los mejores
+    heading : Equipos
+    description : La agricultura de precisión con drones plantea desde <br> hace años el uso de datos  y tecnología para cambiar <br> los métodos de trabajo y manejo de cultivos en <br>todo el mundo.
+    bgImage : images/banner/banner-3.jpg
+    dataIcon : ti-layers-alt
+    dataText : Equipos
+    btn : 
+      enable : true
+      btnText: Más detalles
+      btnURL : '#'
+      
+  - subHeading : Contamos los más modernos 
+    heading : Sensores
+    description : La agricultura de precisión con drones plantea desde <br> hace años el uso de datos y tecnología para cambiar <br>los métodos de trabajo y  manejo de cultivos en <br> todo el mundo.
+    bgImage : images/banner/banner-4.jpg
+    dataIcon : ti-package
+    dataText : Sensores
+    btn : 
+      enable : true
+      btnText: Más detalles
+      btnURL : '#'

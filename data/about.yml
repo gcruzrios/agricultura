@@ -1,0 +1,39 @@
+philosophy :
+  enable : true
+  titleSM : Know About
+  title : Agricultura de precisión con drones
+  content : La agricultura de precisión con drones plantea desde hace años el uso de datos y tecnología para cambiar los métodos de trabajo y manejo de cultivos en todo el mundo. <br><br>En la agricultura de precisión, la función primordial de los drones consiste en recoger información acerca del cultivo. Estos aparatos sobrevuelan el área determinada de forma autónoma, utilizando sistemas de posicionamiento global (GPS). Están construidos para volar grandes extensiones y resistir a condiciones climáticas variables de lluvia y viento (PrecisionHawk). <br><br>Dentro de su interior llevan sofisticadas cámaras y sensores que van recolectando la información deseada del cultivo. Al terminar su tarea, ellos mismos aterrizan de forma segura y la información recogida se pasa a un computador que tiene un software especializado para leer e interpretar los datos.
+  image : images/about/philosophy.jpg
+  btn :
+    enable : true
+    btnText : Explore More
+    btnURL : "#"
+
+ceo :
+  enable : true
+  bgImage : images/about/ceo.jpg
+  title : We are efficient to <br> make your business rise
+  content : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex commodo consequat. duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
+  signature : images/about/ceo-signature.png
+  name : John Doe
+  designation : CEO
+
+funfacts : 
+  enable : true
+  bgImage : images/background/cta.jpg
+  counter : 
+    - title : Projects Done
+      icon : ti-server
+      count : 230
+      
+    - title : Satisfied Clients
+      icon : ti-face-smile
+      count : 789
+      
+    - title : Cup Of Coffee
+      icon : ti-thumb-up
+      count : 580
+      
+    - title : Awards Win
+      icon : ti-cup
+      count : 130
