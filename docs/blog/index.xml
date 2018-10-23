@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on GEOINN Servicios y Productos de Agricultura de Precisión</title>
+    <link>http://example.org/blog/</link>
+    <description>Recent content in Blog on GEOINN Servicios y Productos de Agricultura de Precisión</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate>
+    
+	<atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Money and Money</title>
+      <link>http://example.org/blog/money-and-money/</link>
+      <pubDate>Mon, 24 Sep 2018 11:10:46 +0600</pubDate>
+      
+      <guid>http://example.org/blog/money-and-money/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</description>
+    </item>
+    
+    <item>
+      <title>New Hugo Post</title>
+      <link>http://example.org/blog/new-hugo-post/</link>
+      <pubDate>Sun, 23 Sep 2018 11:35:34 +0600</pubDate>
+      
+      <guid>http://example.org/blog/new-hugo-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</description>
+    </item>
+    
+  </channel>
+</rss>
