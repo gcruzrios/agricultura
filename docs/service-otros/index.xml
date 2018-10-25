@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Service on GEOINN Servicios y Productos de Agricultura de Precisión</title>
-    <link>/service-otros/</link>
+    <link>https://gcruzrios.github.io/agricultura/service-otros/</link>
     <description>Recent content in Service on GEOINN Servicios y Productos de Agricultura de Precisión</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate>
     
-	<atom:link href="/service-otros/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gcruzrios.github.io/agricultura/service-otros/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Market Strategy</title>
-      <link>/service-otros/market-strategy/</link>
+      <link>https://gcruzrios.github.io/agricultura/service-otros/market-strategy/</link>
       <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
       
-      <guid>/service-otros/market-strategy/</guid>
+      <guid>https://gcruzrios.github.io/agricultura/service-otros/market-strategy/</guid>
       <description>Marketing Oriented To The Targated Customers Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Valuable Idea</title>
-      <link>/service-otros/valuable-idea/</link>
+      <link>https://gcruzrios.github.io/agricultura/service-otros/valuable-idea/</link>
       <pubDate>Sat, 29 Sep 2018 11:51:17 +0600</pubDate>
       
-      <guid>/service-otros/valuable-idea/</guid>
+      <guid>https://gcruzrios.github.io/agricultura/service-otros/valuable-idea/</guid>
       <description>Marketing Oriented To The Targated Customers Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Business Consulting</title>
-      <link>/service-otros/business-consulting/</link>
+      <link>https://gcruzrios.github.io/agricultura/service-otros/business-consulting/</link>
       <pubDate>Tue, 25 Sep 2018 15:51:35 +0600</pubDate>
       
-      <guid>/service-otros/business-consulting/</guid>
+      <guid>https://gcruzrios.github.io/agricultura/service-otros/business-consulting/</guid>
       <description>Marketing Oriented To The Targated Customers Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
